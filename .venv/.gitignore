@@ -1,0 +1,19 @@
+# Змінні
+greeting = "hello world"
+name = "Ім'я"
+surname = "Прізвище"
+age = 25  # вік як число
+
+# Виведення типу і значення кожної змінної
+print("Тип змінної 'greeting':", type(greeting))
+print("Значення змінної 'greeting':", greeting)
+
+print("Тип змінної 'name':", type(name))
+print("Значення змінної 'name':", name)
+
+print("Тип змінної 'surname':", type(surname))
+print("Значення змінної 'surname':", surname)
+
+print("Тип змінної 'age':", type(age))
+print("Значення змінної 'age':", age)
+
